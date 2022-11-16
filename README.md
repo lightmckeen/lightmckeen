@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lightmckeen
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Reactjs and Angular
+- 🌱 I’m currently learning Reactjs and Typescript
 - 💞️ I’m looking to collaborate on Interesting projects
 - 📫 How to reach me [mckeenasma.tech](http://mckeenasma.tech/)
 
